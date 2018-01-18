@@ -1,0 +1,8 @@
+language: JDK 8
+notifications:
+  email:
+    recipients:
+      - one@example.com
+    on_success: always
+    on_failure: always
+    
